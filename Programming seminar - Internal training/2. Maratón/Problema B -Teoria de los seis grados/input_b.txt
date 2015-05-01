@@ -1,0 +1,25 @@
+10
+Roxana
+Esteban
+Camila
+Carlos
+Felipe
+Laura
+Alicia
+Santiago
+Alejandra
+Juliana
+8
+Roxana Esteban
+Esteban Camila
+Camila Carlos
+Juliana Alejandra
+Felipe Carlos
+Felipe Laura
+Alicia Santiago
+Alicia Laura
+4
+Santiago Laura
+Alicia Esteban
+Roxana Santiago
+Alejandra Felipe

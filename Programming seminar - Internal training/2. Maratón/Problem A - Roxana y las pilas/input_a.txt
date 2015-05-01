@@ -1,0 +1,7 @@
+6
+PUSH 1
+TOP
+POP
+TOP
+PUSH 5
+TOP
